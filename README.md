@@ -40,7 +40,7 @@ A RESTful API for managing blogs with user authentication, built with Node.js, E
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blog-api.git
+   git clone https://github.com/Sumangotame/blog-api.git
    cd blog-api
    ```
 
